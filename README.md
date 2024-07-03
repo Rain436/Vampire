@@ -2,5 +2,5 @@
 Coming Soon
 
 # Credit
-Flower - UI, Design, future, Bug Fix
-mercury - None
+- Flower - UI, Design, future, Bug Fix
+- mercury_program - None
